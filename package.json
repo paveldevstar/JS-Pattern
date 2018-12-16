@@ -1,0 +1,27 @@
+{
+  "name": "js-design-pattern",
+  "version": "1.0.0",
+  "description": "This is written by dragon warrior.",
+  "main": "AbstructFactory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravedragon632/JS-Pattern.git"
+  },
+  "author": "bravedragon623",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bravedragon632/JS-Pattern/issues"
+  },
+  "homepage": "https://github.com/bravedragon632/JS-Pattern#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
